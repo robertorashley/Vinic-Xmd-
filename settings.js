@@ -7,7 +7,7 @@ const config = require('./config');
 const settings = {
   SESSION_ID: config.SESSION_ID || "", // enter session id
   ownername: config.ownername || "ᴋᴇʟᴠɪɴ ᴛᴇᴄʜ", // Owner name
-  botname: config.botname || "ᴠɪɴɪᴄ xᴍᴅ", // custom bot name
+  botname: config.botname || "JEXPLOIT", // custom bot name
   prefa: config.prefa || ['.', '!'], // Command prefixes
   owner: config.owner || ["256742932677"] // Owner phone numbers
 };
