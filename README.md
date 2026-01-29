@@ -201,18 +201,18 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 ### Thank You Dear
 
-> DEVELOPER OF VINIC-XMD 
+> DEVELOPER OF JEXPLOIT 
 - [KEVINTECH](https://github.comTKevintech-hub)
-- Creator and Owner Of VINIC-XMD 
+- Creator and Owner Of JEXPLOIT 
 
-> VINIC-XMD Helper
+> Jexploit Helper
 - [Malvin King](https://github.com/XdKing2)
 - For helping 
 - Bugs fixes
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**© VINIC XD**
+**© JEXPLOIT**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
