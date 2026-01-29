@@ -28,7 +28,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@vitalets/google-translate-api": "^9.2.1",
         "@hapi/boom": "^10.0.0",
-        "@whiskeysockets/baileys": "^v7.0.0-rc.9",
+        "@whiskeysockets/baileys": "npm:riftcore",
         "acrcloud": "^1.4.0",
         "adm-zip": "^0.5.16",
         "api-dylux": "latest",
