@@ -48,14 +48,6 @@ src="https://files.catbox.moe/p91kk0.jpg">
 </p>
 
 <p align="center">
-    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
-    <br>
-    <a href="https://vinic-xmd-pair-2-kevintech.onrender.com" target="_blank">
-        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
-    </a>
-</p>
-
-<p align="center">
     <strong>4. JOIN WHATSAPP GROUP</strong>
     <br>
     <a href="https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A" target="_blank">
