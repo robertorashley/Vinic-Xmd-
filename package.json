@@ -36,6 +36,7 @@
         "axios": "^1.10.0",
         "crypto-js": "latest",
         "chalk": "^4.1.2",
+        "express": "^4.19.2",
         "check-disk-space": "^3.3.1",
         "cheerio": "^1.1.0",
         "dotenv": "^16.5.0",
