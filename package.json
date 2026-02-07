@@ -5,12 +5,12 @@
     "main": "index.js",
     "type": "commonjs",
     "engines": {
-        "node": "20.x", 
-        "npm": ">= 10.x"  
+        "node": "20.x",
+        "npm": ">= 10.x"
     },
     "scripts": {
-        "start": "node index.js",
-        "dev": "nodemon index.js",
+        "start": "node start.js",
+        "bot": "node index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -71,4 +71,4 @@
     "devDependencies": {
         "nodemon": "^2.0.19"
     }
-    }
+}
