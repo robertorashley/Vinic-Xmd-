@@ -1,6 +1,6 @@
 {
     "name": "Jexploit",
-    "version": "2.0.0",
+    "version": "1.4.6",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
     "type": "commonjs",
@@ -13,6 +13,14 @@
         "bot": "node index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
+        "pm2": "pm2 start ecosystem.config.js",
+        "pm2:stop": "pm2 stop jexploit",
+        "pm2:restart": "pm2 restart jexploit",
+        "pm2:logs": "pm2 logs jexploit",
+        "pm2:status": "pm2 status",
+        "pm2:monit": "pm2 monit",
+        "pm2:save": "pm2 save",
+        "pm2:startup": "pm2 startup",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
@@ -28,7 +36,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@vitalets/google-translate-api": "^9.2.1",
         "@hapi/boom": "^10.0.0",
-        "@whiskeysockets/baileys": "npm:angularsockets",
+        "@whiskeysockets/baileys": "npm:riftcore",
         "acrcloud": "^1.4.0",
         "adm-zip": "^0.5.16",
         "api-dylux": "latest",
