@@ -1,6 +1,6 @@
 {
     "name": "Jexploit",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
     "type": "commonjs",
