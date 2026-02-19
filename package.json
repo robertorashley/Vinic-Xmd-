@@ -9,7 +9,7 @@
         "npm": ">= 10.x"  
     },
     "scripts": {
-        "start": "node index.js",
+        "start": "node start.js",
         "dev": "nodemon index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
