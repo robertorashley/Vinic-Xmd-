@@ -5,22 +5,14 @@
     "main": "index.js",
     "type": "commonjs",
     "engines": {
-        "node": "20.x",
-        "npm": ">= 10.x"
+        "node": "20.x", 
+        "npm": ">= 10.x"  
     },
     "scripts": {
-        "start": "node start.js",
-        "bot": "node start.js",
+        "start": "node index.js",
+        "dev": "nodemon index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
-        "pm2": "pm2 start ecosystem.config.js",
-        "pm2:stop": "pm2 stop jexploit",
-        "pm2:restart": "pm2 restart jexploit",
-        "pm2:logs": "pm2 logs jexploit",
-        "pm2:status": "pm2 status",
-        "pm2:monit": "pm2 monit",
-        "pm2:save": "pm2 save",
-        "pm2:startup": "pm2 startup",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
@@ -71,6 +63,7 @@
         "sequelize": "^6.37.5",
         "steno": "^1.0.0",
         "stream": "^0.0.3",
+        "sqlite3": "^5.1.7",
         "yargs": "^17.2.1",
         "util": "^0.12.5",
         "wa-sticker-formatter": "^4.4.4",
@@ -79,4 +72,4 @@
     "devDependencies": {
         "nodemon": "^2.0.19"
     }
-}
+    }
