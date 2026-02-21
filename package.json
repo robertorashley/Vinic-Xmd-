@@ -9,8 +9,8 @@
         "npm": ">= 10.x"  
     },
     "scripts": {
-        "start": "node start.js",
-        "dev": "nodemon start.js",
+        "start": "node index.js",
+        "dev": "nodemon index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
         "test": "echo \"Error: no test specified\" && exit 1"
