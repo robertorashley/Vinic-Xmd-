@@ -42,8 +42,16 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <p align="center">
     <strong>2. GET SESSION ID</strong>
     <br>
-    <a href="https://vesper-xmd-xjexploit.onrender.com/" target="_blank">
+    <a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
+    <br>
+    <a href="https://vesper-xmd-xjexploit.onrender.com/" target="_blank">
+        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
     </a>
 </p>
 
@@ -58,7 +66,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <p align="center">
     <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
     <br>
-    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
+    <a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
         <img alt="Join group" src="https://img.shields.io/badge/Join group-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
