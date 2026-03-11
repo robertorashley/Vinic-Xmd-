@@ -14,7 +14,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'jexploit.",
+    "description": "Must begin with 'JEXPLOIT-BOT.",
     "value": "",
     "required": false
   }
