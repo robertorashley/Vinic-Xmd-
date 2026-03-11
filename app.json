@@ -14,7 +14,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'JEXPLOIT-BOT.",
+    "description": "Session id must begin with JEXPLOIT-BOT~ or VESPER-XMD~ ",
     "value": "",
     "required": false
   }
