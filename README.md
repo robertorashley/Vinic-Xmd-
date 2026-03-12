@@ -94,6 +94,11 @@ To start, fork this repository to your own GitHub account by clicking the button
 <a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+**Deploy on Heroku**
+<p align="left">  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+</p>
   
 > Click below to deploy on Katabump :
 <p align="left">
