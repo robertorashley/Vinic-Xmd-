@@ -3,10 +3,6 @@
 src="https://files.catbox.moe/p91kk0.jpg">
 </p>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=V+I+N+I+C+I+💯+▇)](https://git.io/typing-svg)
-</p>
-
 <br/>
 
 <p align="center">
@@ -58,7 +54,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <p align="center">
 <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
 <br>
-<a href="https://vesper-xmd-xjexploit.onrender.com/" target="_blank">
+<a href="https://sessionblinders-782c73d40f36.herokuapp.com/" target="_blank">
 <img alt="PAIR2" src="https://img.shields.io/badge/ALTERNATIVE%20PAIR-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=4ECDC4&color=4ECDC4"/>
 </a>
 </p>
@@ -87,21 +83,6 @@ src="https://files.catbox.moe/p91kk0.jpg">
 </a>
 </p>
 
-<p align="center">
-<strong>7. FOLLOW ON INSTAGRAM</strong>
-<br>
-<a href="https://instagram.com/kevintech" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/FOLLOW%20ON%20IG-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F"/>
-</a>
-</p>
-
-<p align="center">
-<strong>8. SUPPORT ON PATREON</strong>
-<br>
-<a href="#" target="_blank">
-<img alt="Patreon" src="https://img.shields.io/badge/SUPPORT%20US-100000?style=for-the-badge&logo=patreon&logoColor=white&labelColor=FF424D&color=FF424D"/>
-</a>
-</p>
 
 <blockquote align="center">
 📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working..
@@ -247,3 +228,4 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <img src="https://img.shields.io/badge/Version-2.0.0-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
 </p>
+
