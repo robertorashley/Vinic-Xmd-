@@ -38,11 +38,12 @@ src="https://files.catbox.moe/p91kk0.jpg">
 
 <br/>
 
+<!-- QUICK LINKS WITH DIFFERENT COLORS -->
 <p align="center">
 <strong>1. JOIN WHATSAPP CHANNEL</strong>
 <br>
 <a href="https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W" target="_blank">
-<img alt="Join now" src="https://img.shields.io/badge/JOIN%20NOW-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+<img alt="Join now" src="https://img.shields.io/badge/JOIN%20CHANNEL-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366"/>
 </a>
 </p>
 
@@ -50,7 +51,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <strong>2. GET SESSION ID</strong>
 <br>
 <a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
-<img alt="WEBSITE" src="https://img.shields.io/badge/PAIR%20CODE-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+<img alt="WEBSITE" src="https://img.shields.io/badge/GET%20PAIR%20CODE-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=FF6B6B&color=FF6B6B"/>
 </a>
 </p>
 
@@ -58,7 +59,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
 <br>
 <a href="https://vesper-xmd-xjexploit.onrender.com/" target="_blank">
-<img alt="PAIR2" src="https://img.shields.io/badge/PAIR%20CODE%20V2-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+<img alt="PAIR2" src="https://img.shields.io/badge/ALTERNATIVE%20PAIR-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=4ECDC4&color=4ECDC4"/>
 </a>
 </p>
 
@@ -66,7 +67,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <strong>4. JOIN WHATSAPP GROUP</strong>
 <br>
 <a href="https://chat.whatsapp.com/JozJ699akqWClXSRab93OW?mode=gi_t" target="_blank">
-<img alt="Join" src="https://img.shields.io/badge/JOIN%20GROUP-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+<img alt="Join" src="https://img.shields.io/badge/JOIN%20GROUP-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=FFA62B&color=FFA62B"/>
 </a>
 </p>
 
@@ -74,7 +75,31 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
 <br>
 <a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
-<img alt="Join group" src="https://img.shields.io/badge/JOIN%20TELEGRAM-100000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+<img alt="Join group" src="https://img.shields.io/badge/JOIN%20TELEGRAM-100000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc&color=0088cc"/>
+</a>
+</p>
+
+<p align="center">
+<strong>6. DISCUSSION FORUM</strong>
+<br>
+<a href="https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W" target="_blank">
+<img alt="Forum" src="https://img.shields.io/badge/DISCUSSION%20FORUM-100000?style=for-the-badge&logo=google-chat&logoColor=white&labelColor=9B59B6&color=9B59B6"/>
+</a>
+</p>
+
+<p align="center">
+<strong>7. FOLLOW ON INSTAGRAM</strong>
+<br>
+<a href="https://instagram.com/kevintech" target="_blank">
+<img alt="Instagram" src="https://img.shields.io/badge/FOLLOW%20ON%20IG-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F"/>
+</a>
+</p>
+
+<p align="center">
+<strong>8. SUPPORT ON PATREON</strong>
+<br>
+<a href="#" target="_blank">
+<img alt="Patreon" src="https://img.shields.io/badge/SUPPORT%20US-100000?style=for-the-badge&logo=patreon&logoColor=white&labelColor=FF424D&color=FF424D"/>
 </a>
 </p>
 
@@ -96,47 +121,85 @@ src="https://files.catbox.moe/p91kk0.jpg">
 
 <h2 align="center">📦 DEPLOYMENT OPTIONS</h2>
 
-<details>
-<summary><b>𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</b></summary>
 <br/>
- 
-<b>• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL</b>
-<br/>
-Click below to download the bot file :
-<p align="left">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-6A5ACD?style=for-the-badge&logo=download&logoColor=white" alt="Rainhost Files" width="150"></a>
+
+<!-- DISCORD/PANEL DEPLOYMENT -->
+<p align="center">
+<strong>🎮 DISCORD / PANEL DEPLOYMENT</strong>
+<br>
+<sub>Download bot files for panel hosting</sub>
+<br>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
 
-<b>Deploy on Heroku</b>
-<p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-6A5ACD?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<!-- HEROKU DEPLOYMENT -->
+<p align="center">
+<strong>⚡ HEROKU DEPLOYMENT</strong>
+<br>
+<sub>Deploy directly to Heroku cloud</sub>
+<br>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank">
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>  
 </p>
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<b>Click below to deploy on Katabump :</b>
-<p align="left">
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
+
+<!-- KATABUMP DEPLOYMENT -->
+<p align="center">
+<strong>☁️ KATABUMP DEPLOYMENT</strong>
+<br>
+<sub>Deploy on Katabump hosting platform</sub>
+<br>
 <a href="https://dashboard.katabump.com/auth/login#203630">
-<img src="https://img.shields.io/badge/Deploy%20to-Katabump-6A5ACD?style=for-the-badge&logo=cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20KATABUMP-6962a6?style=for-the-badge&logo=cloud&logoColor=white"/>
 </a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-<b>Click below to deploy on Bot-Hosting :</b>
-<p align="left">
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
+
+<!-- BOT-HOSTING DEPLOYMENT -->
+<p align="center">
+<strong>🤖 BOT-HOSTING DEPLOYMENT</strong>
+<br>
+<sub>Deploy on specialized bot hosting</sub>
+<br>
 <a href="https://bot-hosting.net/?aff=1231885228566646795">
-<img src="https://img.shields.io/badge/Deploy%20to-Bot--hosting-6A5ACD?style=for-the-badge&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20BOT--HOSTING-9772a6?style=for-the-badge&logo=robot&logoColor=white"/>
 </a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="100%"/></a>
 
-</details>
+<!-- RAILWAY DEPLOYMENT -->
+<p align="center">
+<strong>🚂 RAILWAY DEPLOYMENT</strong>
+<br>
+<sub>Deploy on Railway platform</sub>
+<br>
+<a href="#">
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
+
+<!-- RENDER DEPLOYMENT -->
+<p align="center">
+<strong>🖥️ RENDER DEPLOYMENT</strong>
+<br>
+<sub>Deploy on Render cloud platform</sub>
+<br>
+<a href="#">
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="100%"/></a>
 
 <h2 align="center">📋 HOW TO DEPLOY ON PANELS</h2>
 
@@ -146,25 +209,27 @@ Click below to download the bot file :
 
 <br/>
 
-<table align="center">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; background-color: #f8f9fa;">
 <tr>
-<td>
-<ol>
-<li><code>Fork</code> the Repository.</li>
-<li>If already forked then <code>sync</code> fork repository.</li>
-<li>Click on the green <code>Code</code> button and click <code>download as zip</code>.</li>
-<li><code>Upload</code> the script zip file to your <code>panel</code>.</li>
-<li><code>Unarchieve</code> the uploaded zip file.</li>
-<li>Open the <code>unarchieved folder</code> and <code>move</code> all files to container by typing (<code>../</code>)</li>
-<li>Now go to <code>console</code> and <code>start</code> bot.</li>
-<li>Wait for <code>5-10 mins</code> to enter your number.</li>
+<td style="padding: 15px; border-radius: 10px;">
+<ol style="font-size: 16px; line-height: 2;">
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Fork</code> the Repository.</li>
+<li>If already forked then <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">sync</code> fork repository.</li>
+<li>Click on the green <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> button and click <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">download as zip</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Upload</code> the script zip file to your <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">panel</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Unarchive</code> the uploaded zip file.</li>
+<li>Open the <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">unarchived folder</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">move</code> all files to container by typing (<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">../</code>)</li>
+<li>Now go to <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">console</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">start</code> bot.</li>
+<li>Wait for <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">5-10 mins</code> to enter your number.</li>
 <li>Enter your number when requested to get the pair code.</li>
 <li>Enter pair code in link devices in whatsapp.</li>
-<li><strong>Deployment successful!</strong></li>
+<li><strong style="color: #28a745;">✓ Deployment successful!</strong></li>
 </ol>
 </td>
 </tr>
 </table>
+
+<br/>
 
 <p align="center">
 <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
@@ -176,4 +241,9 @@ Click below to download the bot file :
 
 <p align="center">
 <sub>For further assistance, join our support groups above</sub>
-</p>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Version-2.0.0-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
+</p>
