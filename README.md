@@ -1,225 +1,179 @@
-
-
+<p align="center">
 <img align="center" height="auto"
 src="https://files.catbox.moe/p91kk0.jpg">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=V+I+N+I+C+💯+▇)](https://git.io/typing-svg)
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=V+I+N+I+C+I+💯+▇)](https://git.io/typing-svg)
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/Kevintech-hub"><img title="Author" src="https://img.shields.io/badge/Kelvin%20Tech-6A5ACD?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+<a href="https://wa.me/256742932677"><img title="Author" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p> 
+
+<p align="center">
+<a href="https://github.com/Kevintech-hub/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=6A5ACD&style=flat-square&label=Followers"></a>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Vinic-Xmd-?color=6A5ACD&style=flat-square&label=Stars"></a>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?color=6A5ACD&style=flat-square&label=Forks"></a>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Vinic-Xmd-?label=Watchers&color=6A5ACD&style=flat-square"></a>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Vinic-Xmd-?style=flat-square&color=6A5ACD"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FVinic-Xmd-&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-6A5ACD.svg"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD"></a>
+<img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=6A5ACD" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<br/>
+
+<p align="center">
+<strong>1. JOIN WHATSAPP CHANNEL</strong>
 <br>
-
-   </p>
-<p align="center">
-<a href="https://github.com/Kevintech-hub"><img title="Author" src="https://img.shields.io/badge/Kelvin Tech-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/256742932677"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/> 
-
- <p align="center">
-<a href="https://github.com/Kevintech-hub/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=purple&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Vinic-Xmd-?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Vinic-Xmd-?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Vinic-Xmd-?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FVinic-Xmd-&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-
-<p align="center">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W" target="_blank">
+<img alt="Join now" src="https://img.shields.io/badge/JOIN%20NOW-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
 </a>
-<p align="center">
-  <a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
-
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<p align="center">
-    <strong>1. JOIN WHATSAPP CHANNEL</strong>
-  <br>
-    <a href="https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W" target="_blank">
-        <img alt="Join now" src="https://img.shields.io/badge/Join now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
-    </a>
 </p>
 
 <p align="center">
-    <strong>2. GET SESSION ID</strong>
-    <br>
-    <a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-    </a>
+<strong>2. GET SESSION ID</strong>
+<br>
+<a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
+<img alt="WEBSITE" src="https://img.shields.io/badge/PAIR%20CODE-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+</a>
 </p>
 
 <p align="center">
-    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
-    <br>
-    <a href="https://sessionid-299e254ee242.herokuapp.com/" target="_blank">
-        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
-    </a>
+<strong>3. GET SESSION ID (ALTERNATIVE)</strong>
+<br>
+<a href="https://vesper-xmd-xjexploit.onrender.com/" target="_blank">
+<img alt="PAIR2" src="https://img.shields.io/badge/PAIR%20CODE%20V2-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+</a>
 </p>
 
 <p align="center">
-    <strong>4. JOIN WHATSAPP GROUP</strong>
-    <br>
-    <a href="https://chat.whatsapp.com/JozJ699akqWClXSRab93OW?mode=gi_t" target="_blank">
-        <img alt="Join" src="https://img.shields.io/badge/Join-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
-    </a>
+<strong>4. JOIN WHATSAPP GROUP</strong>
+<br>
+<a href="https://chat.whatsapp.com/JozJ699akqWClXSRab93OW?mode=gi_t" target="_blank">
+<img alt="Join" src="https://img.shields.io/badge/JOIN%20GROUP-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+</a>
 </p>
 
 <p align="center">
-    <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
-    <br>
-    <a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
-        <img alt="Join group" src="https://img.shields.io/badge/Join group-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
-    </a>
+<strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
+<br>
+<a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
+<img alt="Join group" src="https://img.shields.io/badge/JOIN%20TELEGRAM-100000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=6A5ACD&color=6A5ACD"/>
+</a>
 </p>
 
-> 📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working..
+<blockquote align="center">
+📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working..
+</blockquote>
 
+<br/>
 
-### 🚀 Fork the Repository
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-To start, fork this repository to your own GitHub account by clicking the button below:
+<h3 align="center">🚀 Fork the Repository</h3>
 
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?style=for-the-badge&logo=github&color=4c1&label=Fork%2FVINIC-XMD" alt="Fork Vinic-Xmd" /></a>
+<p align="center">
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Vinic-Xmd" /></a>
+</p>
 
-<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
+<h2 align="center">📦 DEPLOYMENT OPTIONS</h2>
 
 <details>
-<summary> 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
+<summary><b>𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</b></summary>
+<br/>
  
- **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
-<br>
-> Click below to download the bot file :
+<b>• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL</b>
+<br/>
+Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-6A5ACD?style=for-the-badge&logo=download&logoColor=white" alt="Rainhost Files" width="150"></a>
+</p>
 
-**Deploy on Heroku**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<b>Deploy on Heroku</b>
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-6A5ACD?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
   
-> Click below to deploy on Katabump :
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<b>Click below to deploy on Katabump :</b>
 <p align="left">
-  <a href="https://dashboard.katabump.com/auth/login#203630">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
-  </a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-  
-> Click below to deploy on Bot-Hosting :
-<p align="left">
-  <a href="https://bot-hosting.net/?aff=1231885228566646795">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
-  </a>
+<a href="https://dashboard.katabump.com/auth/login#203630">
+<img src="https://img.shields.io/badge/Deploy%20to-Katabump-6A5ACD?style=for-the-badge&logo=cloud&logoColor=white"/>
+</a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
- </a>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘖𝘕 𝘗𝘈𝘕𝘌𝘓𝘚</summary>
- 
-1. `Fork` the Repository.
-2. If already forked then `sync` fork repository.
-3. Click on the green `Code` button and click `download as zip`.
-4. `Upload` the script zip file to your `panel`.
-5. `Unarchieve` the uploaded zip file.
-6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
-7. Now go to `console` and `start` bot.
-8. Wait for `5-10 mins` to enter your number.
-9. Enter your number when requested to get the pair code.
-10. Enter pair code in link devices in whatsapp.
-11. Deployment successful.
-</details>
- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-  
-## `CLONE REPO & INSTALLATION DEPENDENCIES`
-```bash
-git clone https://github.com/<your gitHub Username>/Vinic-Xmd-.git
-cd Vinic-Xmd- 
-npm start
-```
+<b>Click below to deploy on Bot-Hosting :</b>
+<p align="left">
+<a href="https://bot-hosting.net/?aff=1231885228566646795">
+<img src="https://img.shields.io/badge/Deploy%20to-Bot--hosting-6A5ACD?style=for-the-badge&logo=robot&logoColor=white"/>
+</a>
+</p>
 
-## `FOR SSH/UBUNTU/LINUX`
-```bash
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install -y bash
-sudo apt-get install -y libwebp
-sudo apt-get install -y git
-sudo apt-get install -y nodejs
-sudo apt-get install -y ffmpeg
-sudo apt-get install -y wget
-sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/Vinic-Xmd-
-cd Vinic-Xmd-
-npm install
-npm start
-```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## `FOR TERMUX`
-```bash
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
-cd /sdcard
-cd bot folder name
-yarn install
-npm start
-```
-
-## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
-```
 </details>
 
-##
-<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
-</h2>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
+<h2 align="center">📋 HOW TO DEPLOY ON PANELS</h2>
 
+<blockquote align="center">
+<strong>Follow these steps carefully for successful panel deployment</strong>
+</blockquote>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<br/>
 
-### Thank You Dear
+<table align="center">
+<tr>
+<td>
+<ol>
+<li><code>Fork</code> the Repository.</li>
+<li>If already forked then <code>sync</code> fork repository.</li>
+<li>Click on the green <code>Code</code> button and click <code>download as zip</code>.</li>
+<li><code>Upload</code> the script zip file to your <code>panel</code>.</li>
+<li><code>Unarchieve</code> the uploaded zip file.</li>
+<li>Open the <code>unarchieved folder</code> and <code>move</code> all files to container by typing (<code>../</code>)</li>
+<li>Now go to <code>console</code> and <code>start</code> bot.</li>
+<li>Wait for <code>5-10 mins</code> to enter your number.</li>
+<li>Enter your number when requested to get the pair code.</li>
+<li>Enter pair code in link devices in whatsapp.</li>
+<li><strong>Deployment successful!</strong></li>
+</ol>
+</td>
+</tr>
+</table>
 
-> DEVELOPER OF JEXPLOIT 
-- [KEVINTECH](https://github.comTKevintech-hub)
-- Creator and Owner Of JEXPLOIT 
+<p align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</p>
 
-> Jexploit Helper
-- [Malvin King](https://github.com/XdKing2)
-- For helping 
-- Bugs fixes
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<p align="center">
+<b>🎉 Congratulations! Your bot is now deployed on the panel</b>
+</p>
 
-**© JEXPLOIT**
-##
-![MIT License](https://img.shields.io/badge/License-green.svg)
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<p align="center">
+<sub>For further assistance, join our support groups above</sub>
+</p>  
