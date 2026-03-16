@@ -62,7 +62,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <p align="center">
 <strong>4. JOIN WHATSAPP GROUP</strong>
 <br>
-<a href="https://chat.whatsapp.com/JozJ699akqWClXSRab93OW?mode=gi_t" target="_blank">
+<a href="https://chat.whatsapp.com/DwQoedzGJl4K6QnRKAhzaf?mode=hq2tcla" target="_blank">
 <img alt="Join" src="https://img.shields.io/badge/JOIN%20GROUP-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=FFA62B&color=FFA62B"/>
 </a>
 </p>
