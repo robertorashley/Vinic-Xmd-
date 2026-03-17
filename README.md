@@ -54,7 +54,7 @@ src="https://files.catbox.moe/p91kk0.jpg">
 <p align="center">
 <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
 <br>
-<a href="https://sessionblinders-782c73d40f36.herokuapp.com/" target="_blank">
+<a href="https://sessionid-299e254ee242.herokuapp.com/" target="_blank">
 <img alt="PAIR2" src="https://img.shields.io/badge/ALTERNATIVE%20PAIR-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=4ECDC4&color=4ECDC4"/>
 </a>
 </p>
